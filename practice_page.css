@@ -1,0 +1,61 @@
+.ramen_pic{
+   background-image: url(http://b3project.com/wp-content/uploads/2019/08/min3.jpg);
+}
+
+.ramen{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+  
+.heading{
+   color: cornsilk;
+   text-align: center;
+   font-size: 180px;
+}
+
+.personal_info{
+   display: flex;
+   flex-direction: row;
+   margin-left: 40px;
+   margin-right: 40px;
+   align-items: center;
+   color: white;
+   font-size: 30px;
+}
+
+.icon{
+   display: flex;
+   flex-direction: row;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 100px;
+   width: 100px;
+   height: 100px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.order{
+   display:flex;
+   flex-direction: row;
+   align-items: center;
+   color:white;
+   margin-left: auto;
+   margin-right: auto;
+   background-color:orange ;
+   border-radius: 8px;
+   font-size: 30px;
+   line-height: 1;
+   justify-content: center;
+}
+
+.personal_info_div{
+   display: flex;
+   background-color: rgba(0, 0, 0, 0.281);
+   
+   
+
+}
+   
